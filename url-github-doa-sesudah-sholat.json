@@ -1,9 +1,9 @@
 {
   "Ads": [
     {
-      "select_main_ads": "null",
+      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"null",
-      "main_ads_banner": "null",
+      "main_ads_banner": "1832960950526731_1832961353860024",
       "main_ads_intertitial":"null",
       "main_ads_natives":"null",
       "main_ads_rewards":"null",
